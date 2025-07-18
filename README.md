@@ -55,4 +55,6 @@ For those researching or monitoring darknet market vendors, platforms like Abacu
 
 **Discover verified darknet market vendors and secure trading today: **
 
-Update:  07/14/2025 04-28-43
+
+
+Update:  07/18/2025 Component URLs
