@@ -61,4 +61,6 @@ For those researching or monitoring darknet market vendors, platforms like Abacu
 
 
 
-Update:  24.07.2025 11:43:25 Updated contributor profile links
+
+
+Update:  04 August url is now working correctly
